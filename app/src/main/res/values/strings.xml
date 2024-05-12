@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Note SqlLite</string>
+    <string name="todo">TODO</string>
+    <string name="add_note">Add Note.</string>
+    <string name="save_Button">Savebtn</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="enter_the_tittle">Enter the tittle</string>
+    <string name="notes">Notes.</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="updatebtn">updateBtn</string>
+    <string name="edit_note">Edit Note.</string>
+    <string name="deletebtn">deleteBtn</string>
+</resources>
